@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ContactManagerApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/main_blue</item>
+        <item name="colorPrimaryVariant">@color/sec_blue</item>
+        <item name="colorOnPrimary">@color/main_grey</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/main_grey</item>
+        <item name="colorSecondaryVariant">@color/sec_grey</item>
+        <item name="colorOnSecondary">@color/main_blue</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/main_blue</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
